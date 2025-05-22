@@ -31,12 +31,10 @@ $R = \rho \cdot \frac{l}{A}$
 
 Donde:
 
-\begin{itemize}
-  \item \( R \): resistencia total \([ \Omega ]\)
-  \item \( \rho \): resistividad del material \([ \Omega \cdot \text{m} ]\)
-  \item \( l \): longitud del conductor \([ \text{m} ]\)
-  \item \( A \): área transversal del conductor \([ \text{m}^2 ]\)
-\end{itemize}
+- $R$: resistencia total $[\Omega]$
+- $\rho$: resistividad del material $[\Omega \cdot \text{m}]$
+- $l$: longitud del conductor $[\text{m}]$
+- $A$: área transversal del conductor $[\text{m}^2]$
 
 
 ---
