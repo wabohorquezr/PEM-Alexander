@@ -6,7 +6,10 @@ Descripciones para PEM en donde podemos ver muchas cosas con respecto a muchas c
 
 ## 🧾 Objetivo
 
-Determinar la concentración necesaria de una solución de sulfato de cobre (CuSO₄) que produzca una **resistencia total de 50 ohmios**, usando datos experimentales obtenidos de una gráfica de resistividad específica en función de la concentración.
+Queremos determinar  la concentración necesaria de una solución de sulfato de cobre (CuSO₄) que produzca una **resistencia total de 50 ohmios**, en este caso resistividad específica en función de la concentración la tomamos de ejmplo por meido de la imagen.[Pagina de la imagen](http://www.kronjaeger.com/hv/hv/comp/res/index.html)
+
+
+![Imagen](http://www.kronjaeger.com/hv/hv/comp/res/spezres.png)
 
 ---
 
