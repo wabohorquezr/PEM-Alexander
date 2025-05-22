@@ -26,16 +26,18 @@ Queremos determinar  la concentración necesaria de una solución de sulfato de 
 
 La resistencia total de un conductor está dada por:
 
-\[
-R = \rho \cdot \frac{l}{A}
-\]
+$R = \rho \cdot \frac{l}{A}$
+
 
 Donde:
 
-- \( R \): resistencia total \([Ω]\)
-- \( \rho \): resistividad del material \([Ω·m]\)
-- \( l \): longitud del conductor \([m]\)
-- \( A \): área transversal del conductor \([m^2]\)
+\begin{itemize}
+  \item \( R \): resistencia total \([ \Omega ]\)
+  \item \( \rho \): resistividad del material \([ \Omega \cdot \text{m} ]\)
+  \item \( l \): longitud del conductor \([ \text{m} ]\)
+  \item \( A \): área transversal del conductor \([ \text{m}^2 ]\)
+\end{itemize}
+
 
 ---
 
