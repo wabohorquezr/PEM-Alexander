@@ -2,38 +2,87 @@
 Descripciones para PEM en donde podemos ver muchas cosas con respecto a muchas cosas
 
 
-# 🧪 Cálculo de Cantidad de Sulfato de Cobre para una Resistencia Deseada
+# 📘 Cálculo de Concentración de Sulfato de Cobre (CuSO₄) para Obtener una Resistencia de 50 Ω
 
-Este script en Python permite calcular la cantidad de **sulfato de cobre (CuSO₄)** necesaria para preparar una solución con una resistencia eléctrica específica, en función del área transversal del conductor de líquido.
+## 🧾 Objetivo
 
-## ✅ Entradas
+Determinar la concentración necesaria de una solución de sulfato de cobre (CuSO₄) que produzca una **resistencia total de 50 ohmios**, usando datos experimentales obtenidos de una gráfica de resistividad específica en función de la concentración.
 
-- `R_objetivo`: Resistencia requerida (en ohmios, Ω)
-- `area_m2`: Área transversal del canal o tubo por donde pasa la solución (en metros cuadrados, m²)
+---
 
-## 📤 Salidas
+## 📉 Información de la Gráfica
 
-- `longitud_m`: Longitud necesaria del líquido (en m), asumiendo tubo cuadrado
-- `volumen_m3`: Volumen de la solución (en metros cúbicos)
-- `volumen_L`: Volumen de la solución (en litros)
-- `resistividad_ohm_m`: Resistividad necesaria del líquido (en ohm·metro)
-- `concentracion_gL`: Concentración estimada de CuSO₄ necesaria (en gramos por litro)
-- `masa_CuSO4_g`: Masa total de CuSO₄ necesaria (en gramos)
+- **Eje vertical**: Resistividad específica (ρ) en **Ω·cm**
+- **Eje horizontal**: Concentración de CuSO₄ en **g/L**
+- La curva muestra que al aumentar la concentración, la resistividad disminuye.
+- El rango de resistividad está entre **1 y 1000 Ω·cm**
 
-## 📐 Supuestos
+---
 
-- El canal por donde pasa la corriente es **cuadrado**, por lo tanto:
+## 📐 Fundamento teórico
 
+La resistencia total de un conductor está dada por:
+
+\[
+R = \rho \cdot \frac{l}{A}
+\]
+
+Donde:
+
+- \( R \): resistencia total \([Ω]\)
+- \( \rho \): resistividad del material \([Ω·m]\)
+- \( l \): longitud del conductor \([m]\)
+- \( A \): área transversal del conductor \([m^2]\)
+
+---
+
+## 🧮 Supuestos geométricos
+
+Para hacer una estimación práctica, se asume lo siguiente:
+
+- Longitud del líquido conductor:  
   \[
-  \text{longitud} = \sqrt{\text{área}}
+  l = 0.1 \, \text{m} \quad \text{(10 cm)}
+  \]
+  
+- Área transversal:  
+  \[
+  A = 1 \, \text{cm}^2 = 1 \times 10^{-4} \, \text{m}^2
   \]
 
-- Se usa una relación empírica basada en datos experimentales del sulfato de cobre:
+---
 
-  \[
-  \rho_{\text{cm}} = 100 \cdot C^{-0.85}
-  \]
+## 🔄 Cálculo de resistividad requerida
 
-  Donde:
-  - \( \rho_{\text{cm}} \): Resistividad en ohm·centímetro
-  - \( C \): Concentración en g/L
+Reordenando la fórmula para obtener la resistividad específica:
+
+\[
+\rho = R \cdot \frac{A}{l} = 50 \cdot \frac{1 \times 10^{-4}}{0.1} = 0.05 \, \Omega\cdot\text{m}
+\]
+
+Convertimos a Ω·cm (multiplicamos por 100):
+
+\[
+\rho = 0.05 \, \Omega\cdot\text{m} = 5 \, \Omega\cdot\text{cm}
+\]
+
+---
+
+## 📊 Interpretación usando la gráfica
+
+Al observar el valor de **5 Ω·cm** en el eje vertical de la gráfica de CuSO₄, se estima:
+
+- La concentración correspondiente es de aproximadamente **85 g/L**
+
+---
+
+## ✅ Resultado estimado
+
+> Para obtener una resistencia de **50 Ω** en una celda de **10 cm de largo** y **1 cm² de sección transversal**, se requiere una **solución de sulfato de cobre con concentración aproximada de 85 g/L**.
+
+---
+
+## 🧪 Nota adicional
+
+Este valor puede refinarse si se usan otras dimensiones (longitud y área). El cálculo es adaptable a otros casos usando la misma lógica.
+
