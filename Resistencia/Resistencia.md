@@ -41,14 +41,10 @@ Donde:
 Para hacer una estimación práctica, se asume lo siguiente:
 
 - Longitud del líquido conductor:  
-  $
-  l = 0.1 \, \text{m} \quad \text{(10 cm)}
-  $
+  $l = 0.1 \, \text{m} \quad \text{(10 cm)}$
   
 - Área transversal:  
-  $
-  A = 1 \, \text{cm}^2 = 1 \times 10^{-4} \, \text{m}^2
-  $
+  $A = 1 \, \text{cm}^2 = 1 \times 10^{-4} \, \text{m}^2$
 
 ---
 
@@ -56,15 +52,11 @@ Para hacer una estimación práctica, se asume lo siguiente:
 
 Reordenando la fórmula para obtener la resistividad específica:
 
-$
-\rho = R \cdot \frac{A}{l} = 50 \cdot \frac{1 \times 10^{-4}}{0.1} = 0.05 \, \Omega\cdot\text{m}
-$
+$\rho = R \cdot \frac{A}{l} = 50 \cdot \frac{1 \times 10^{-4}}{0.1} = 0.05 \, \Omega\cdot\text{m}$
 
 Convertimos a Ω·cm (multiplicamos por 100):
 
-$
-\rho = 0.05 \, \Omega\cdot\text{m} = 5 \, \Omega\cdot\text{cm}
-$
+$\rho = 0.05 \, \Omega\cdot\text{m} = 5 \, \Omega\cdot\text{cm}$
 
 ---
 
