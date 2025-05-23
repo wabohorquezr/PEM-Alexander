@@ -158,9 +158,11 @@ En funcion a lo encontrado por medio de el video obtenemos
 
 ---
 
-## 🧪 Nota adicional
+## 🧪 Experimento
 
 Este valor puede refinarse si se usan otras dimensiones (longitud y área). El cálculo es adaptable a otros casos usando la misma lógica.
+
+Por medio de la Solucion vamos a interactuar con el elemento.
 
 
 
