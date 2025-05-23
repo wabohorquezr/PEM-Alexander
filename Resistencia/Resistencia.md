@@ -148,7 +148,7 @@ En funcion a lo encontrado por medio de el video obtenemos
 
 [Solucion liquida con sulfato de cobre](https://www.youtube.com/shorts/1H3qh7PhQ4s)
 
-[Resistencia de agua(Carcasa)](https://www.youtube.com/shorts/2VBhNsMEiJs])
+[Resistencia de agua(Carcasa)](https://www.youtube.com/shorts/2VBhNsMEiJs)
 
 ---
 
