@@ -95,3 +95,7 @@ En funcion a lo encontrado por medio de el video obtenemos "Parte donde poner un
 
 Este valor puede refinarse si se usan otras dimensiones (longitud y área). El cálculo es adaptable a otros casos usando la misma lógica.
 
+
+
+
+![Solucion](Solucion.md)
