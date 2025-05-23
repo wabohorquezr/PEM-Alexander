@@ -13,10 +13,19 @@ En este experimento se preparó una solución de sulfato de cobre (II), una solu
 ## ¿Cómo se realizó?
 1. Preparación de las porciones:
 Se utilizó un procedimiento poco preciso. Se midieron aproximadamente 4 cucharadas pequeñas de sulfato de cobre en forma de cristales, las cuales se mezclaron con un poco más de 75 ml de agua destilada.
+
+
+
 2. Disolución inicial:
 Los 75 ml de agua destilada fueron vertidos en un vaso de precipitados, junto con las 4 cucharadas de sulfato de cobre. Se mezcló la solución con agitación constante hasta que el agua tomó un color azul característico y el sedimento de sulfato fue menos visible.
+
+![Vaso de precipitados][vasoPresipitado.jpg]
+
 3. Transferencia al matraz volumétrico:
 Una vez disuelta parcialmente la mezcla, se vertió cuidadosamente en un matraz volumétrico utilizando un embudo. En el matraz, se agitó enérgicamente el contenido hasta obtener una solución de aspecto más homogéneo, aunque aún con algo de sedimento visible.
+
+![Matraz Volumetrico][vasoPresipitado.jpg]
+
 4. Calentamiento y segunda disolución:
 El contenido del matraz se vertió en una olla, donde se calentó hasta hervir. Posteriormente, la solución caliente se devolvió al matraz volumétrico, completando así el proceso de preparación de la solución.
 
