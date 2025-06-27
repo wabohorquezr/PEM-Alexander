@@ -10,7 +10,7 @@ Explicar cómo una solución de **CuSO₄·5H₂O** (sulfato de cobre(II) pentah
 
 ### 🔌 Efecto Joule
 
-Cuando una corriente eléctrica \( I \) circula por una resistencia \( R \), la energía disipada en forma de calor durante un tiempo \( t \) se calcula como:
+Cuando una corriente eléctrica $ I $ circula por una resistencia $ R $, la energía disipada en forma de calor durante un tiempo $ t $ se calcula como:
 
 $$
 E = I^2 \cdot R \cdot t
@@ -18,7 +18,14 @@ $$
 
 Esta energía **se transfiere a la solución**, elevando su temperatura.
 
+Donde en el caso de la soluccion esta dado por:
+
 ---
+
+[enlace de la capacidad calorífica del Sulfato de Cobre II ](https://webbook.nist.gov/cgi/cbook.cgi?ID=C7758987&Type=JANAFS&Table=on#:~:text=298.98.50%20109.0%20109.2,97).
+
+
+![Tabla tomada del a pagina de NIST Chemistry WebBook, SRD 69](image.png)
 
 ### 🌡️ Capacidad Calorífica Específica
 

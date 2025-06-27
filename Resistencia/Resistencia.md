@@ -164,7 +164,7 @@ Este valor puede refinarse si se usan otras dimensiones (longitud y área). El c
 
 Por medio de la Solucion vamos a interactuar con el elemento.
 
+![Energia Disipada](Energia_disipada.md)
 
 
-
-![Solucion](Solucion.md)
+![Solucion](Solucion.md)NIST Chemistry WebBook, SRD 69
