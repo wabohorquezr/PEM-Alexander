@@ -1,0 +1,26 @@
+* Flyback CRT Aproximado 6174V-6002U
+* Modelo simplificado para ZVS Mazilli
+
+.SUBCKT FB6174V6002U A B HVOUT RET
+
+* Primario externo equivalente
+Lp A B 35u
+
+* Secundario HV equivalente
+Ls NS RET 450m
+
+* Acoplamiento magnético
+K1 Lp Ls 0.985
+
+* Capacitancia parasita secundaria
+Cp NS RET 18p
+
+* Rectificador interno aproximado
+D1 NS HVOUT DHV
+
+* Bleeder interno
+Rbleed HVOUT RET 800Meg
+
+.model DHV D(Is=1n Rs=30 Cjo=1p Bv=25000 Ibv=1u)
+
+.ENDS FB6174V6002U

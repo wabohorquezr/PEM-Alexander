@@ -1,0 +1,35 @@
+* Flyback Simplificado Funcional LTspice
+* Entrada 12V -> Transformador -> Rectificación HV
+
+Vin IN 0 DC 12
+
+* Driver cuadrado simple
+Vdrv GATE 0 PULSE(0 10 0 100n 100n 10u 20u)
+
+* Switch ideal controlado
+S1 IN NP GATE 0 SWMOD
+.model SWMOD SW(Ron=0.05 Roff=1e9 Vt=4 Vh=0.5)
+
+* Primario
+Lp NP 0 50u
+
+* Secundario
+Ls NS 0 500m
+
+* Acoplamiento magnético
+K1 Lp Ls 0.98
+
+* Diodo HV
+D1 NS HVOUT DHV
+.model DHV D(Is=1n Rs=10 Cjo=1p Bv=15000 Ibv=1u)
+
+* Capacitor filtro
+C1 HVOUT 0 1n
+
+* Carga alta resistencia
+Rload HVOUT 0 100Meg
+
+.tran 0 10m startup
+.options plotwinsize=0
+
+.end
