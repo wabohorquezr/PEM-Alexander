@@ -55,13 +55,16 @@ E --> F[Pulso de Salida ≈13kV]
 
 ### 2.4 Rectificación de Alta Tensión
 
+
 | Elemento | Función |
 |---|---|
 | Diodo HV | Rectificación |
 | Capacitor HV | Filtrado opcional |
 
-**Salida estimada:** 1 kV a 3 kV CC.
+**Salida estimada:** 
+![Datos Salida de el conjunto de Alta Tension](20260423_152109.png)
 
+![Salida de el conjunto de Alta Tension](20260423_152220.png)
 ---
 
 ### 2.5 Etapa de Carga del Generador Marx
