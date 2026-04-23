@@ -34,8 +34,11 @@ E --> F[Pulso de Salida ≈13kV]
 | Frecuencia | 20 kHz – 60 kHz |
 | Dispositivos | MOSFETs |
 
-**Función:** convertir corriente continua en señal de alta frecuencia para excitar el transformador.
 
+![Esquematico del circuito zvs](Esquematicode-ZVS.png)
+
+**Función:** convertir corriente continua en señal de alta frecuencia para excitar el transformador.
+#### Simulación LTspice : [marx_generator.asc](./zns.asc)
 ---
 
 ### 2.3 Etapa Elevadora Flyback
