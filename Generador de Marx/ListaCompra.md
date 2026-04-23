@@ -9,7 +9,7 @@
 <summary>Ver componentes</summary>
 
 - ⬜ **Fuente 12V 10A**  
-  🔗 https://listado.mercadolibre.com.co/fuente-12v-10a
+  🔗 https://www.mercadolibre.com.co/fuente-conmutada-12v-10a/p/MCO27682516#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=1&type=product&tracking_id=e7dac1a3-4c84-49c1-8cdd-6d7378bdee08&wid=MCO1836372807&sid=search
 
 - ⬜ **Cable AWG14 / AWG16**  
   🔗 https://listado.mercadolibre.com.co/cable-awg14
@@ -33,10 +33,10 @@
   🔗 https://www.didacticaselectronicas.com/shop/irf640-gen-mosfet-irf640-canal-n-200v-18a-generico-5937?attribute_values=1528%2C1521%2C1346
 
 - ⬜ **Disipadores MOSFET** (x2)  
-  🔗 https://listado.mercadolibre.com.co/disipador-transistor
+  🔗 https://www.didacticaselectronicas.com/shop/dis-to220-718-disipador-de-aluminio-to-220-718-21431
 
 - ⬜ **Resistencia 10kΩ** (x2)  
-  🔗 https://www.ferretronica.com/
+  
 
 - ⬜ **Resistencia 470Ω** (x2)  
   🔗 https://www.ferretronica.com/
@@ -54,10 +54,10 @@
 <summary>Ver componentes</summary>
 
 - ⬜ **Flyback CRT reciclado**  
-  🔗 Reciclaje local
+  🔗 https://www.mercadolibre.com.co/fly-back-nuevos-remate-para-diferentes-aplicaciones/up/MCOU2434386094#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=6&type=product&tracking_id=602f0839-6255-4777-a085-586a851f1150&wid=MCO604584919&sid=search
 
 - ⬜ **Diodo HV rectificador**  
-  🔗 https://listado.mercadolibre.com.co/diodo-alto-voltaje
+  🔗 https://www.mercadolibre.com.co/diodo-de-alto-voltaje-microondas-350ma-12kv-cl01-12/p/MCO2059969665#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=4&type=product&tracking_id=e4002617-8565-4811-bd37-5b3f49fd5a80&wid=MCO1396419707&sid=search
 
 - ⬜ **Cable silicona HV**  
   🔗 https://listado.mercadolibre.com.co/cable-alto-voltaje-silicona
@@ -75,8 +75,7 @@
 <summary>Ver componentes</summary>
 
 - ⬜ **Capacitores por etapa**  
-  🔗 https://listado.mercadolibre.com.co/capacitor-2kv
-
+  🔗 https://www.mercadolibre.com.co/5pcs-capacitores-de-disco-de-ceramica-pf-10nf-001uf-v-20kv/p/MCO2069141701#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=2&type=product&tracking_id=bc85f28d-6f21-4381-b5aa-1cfeb36d9e6d&wid=MCO2843510648&sid=search
 - ⬜ **Resistencias de carga**  
   🔗 https://listado.mercadolibre.com.co/resistencia-1m-ohm
 

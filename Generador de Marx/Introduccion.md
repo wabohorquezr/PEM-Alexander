@@ -86,16 +86,4 @@ E --> F[Pulso de Salida ≈13kV]
 
 ---
 
-## 3. Consideraciones de Seguridad
 
-- Descarga manual de capacitores antes de intervenir.  
-- Distancias de aislamiento adecuadas.  
-- Uso de guantes y herramientas aisladas.  
-- Operación supervisada.
-
----
-
-## 4. Observaciones
-
-El rendimiento final depende de pérdidas en conmutación, aislamiento, calidad del flyback y diseño del banco Marx.
-```
