@@ -87,5 +87,10 @@
 
 </details>
 
+## Complemento de Conexiones
+
+- **Conectores X760** 
+  🔗 https://www.electronicaplugandplay.com/conectores/product/825-xt60-pair
+
 ---
 
